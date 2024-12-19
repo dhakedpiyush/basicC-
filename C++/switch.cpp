@@ -27,5 +27,6 @@ int main()
         cout << "Please enter a valid choice";
     }
     
-
+ cout << "Please enter a valid choice 2";
+     cout << "Please enter a valid choice  3";
 }
