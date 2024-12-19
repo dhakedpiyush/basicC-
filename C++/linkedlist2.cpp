@@ -8,6 +8,8 @@ public:
 
 };
 
+cout<<"Linked List";
+
 int deletevalue(Node** head_ref, int key){
 
   Node* temp = *head_ref;
