@@ -30,5 +30,7 @@ int main()
    cin>>key;
 
    cout<<linear(arr,n,key);
+   cout<<linear(arr,n,key);
+   cout<<linear(arr,n,key);
 
 }
