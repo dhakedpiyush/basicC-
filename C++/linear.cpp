@@ -30,7 +30,7 @@ int main()
    cin>>key;
 
    cout<<linear(arr,n,key);
-   cout<<linear(arr,n,key);
-   cout<<linear(arr,n,key);
+   cout<<linear(arr,n,key); //No Need of this.
+   cout<<linear(arr,n,key); //No need of this.
 
 }
