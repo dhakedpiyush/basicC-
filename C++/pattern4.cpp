@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//pattern 4 required
 int main()
 {
   int n;
